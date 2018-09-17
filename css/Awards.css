@@ -1,0 +1,44 @@
+ul{
+	top:300px;
+	text-align:center;
+	float:top;
+	position:fixed;
+	color:black;
+}
+li{
+    border-bottom:1px ;
+    height:30px;
+    font-size:20px;
+    font-style: italic;
+}
+div{
+	float:center ;
+	position: absolute; left:300px;top:5px;bottom:10px;
+}
+a{
+	color: #0B0B61;
+}
+a:visited { 
+     color:red; 
+} 
+a:hover { 
+color:#f44141;  
+} 
+svg{
+	margin-top: 270px;
+}
+tr{
+	position: relative;
+	left: 350px;
+	width: 700px;
+}
+td{
+	text-align:center;
+	height: 60px;
+}
+h2{
+	font-size: 40px;
+	position:absolute;
+	left: 650px;
+	top:40px;
+}

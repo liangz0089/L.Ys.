@@ -1,0 +1,31 @@
+ul{
+	top:300px;
+	text-align:center;
+	float:top;
+	position:fixed;
+	color:black;
+}
+li{
+    border-bottom:1px ;
+    height:30px;
+    font-size:20px;
+    font-style: italic;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+div{
+	float:center ;
+	position: absolute; left:300px;top:5px;bottom:10px;
+}
+a{
+	color: #0B0B61;
+}
+a:visited { 
+     color:red; 
+} 
+a:hover { 
+color:#f44141;  
+} 
+svg{
+	margin-top: 270px;
+}
